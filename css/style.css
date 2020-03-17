@@ -196,3 +196,54 @@ img {
     color: #130400;
     line-height: 1.5em;
 }
+
+.newsletter h2 {
+    font-size: 1.5em;
+    color: #fff;
+    font-weight: 700;
+}
+
+.newsletter h3 {
+    color: #fff;
+}
+
+.newsletter form {
+    margin-top: 2%;
+}
+
+.newsletter input {
+    width: 100%;
+    color: #fff;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    padding: 5%;
+}
+
+.newsletter button {
+    width: 100%;
+    color: #130400;
+    padding: 5%;
+    cursor: pointer;
+    margin-top: 2%;
+}
+
+
+/* RODAPÉ */
+
+.social-icons a {
+    font-size: 1.5em;
+    color: rgba(255, 255, 255, 0.7);
+    margin-right: 3%;
+}
+
+.social-icons a:last-child {
+    margin-right: 0;
+}
+
+.social-icons a:hover {
+    color: rgb(255, 255, 255);
+}
+
+.copyright {
+    color: rgba(255, 255, 255, 0.7);
+    margin-top: 2%;
+}
